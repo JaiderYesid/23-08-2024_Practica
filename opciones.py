@@ -1,3 +1,6 @@
 print("Escoja una opcion a la que pertenece:")
-print("a. Menor de edad")
-print("b. Mayor de edad")
+print("a. Menor de edad (10-17)")
+print("b. Mayor de edad (18-25)")
+print("c. Mayor de edad (26-40)")
+print("d. Mayor de edad (40-60)")
+print("e. Adulto Mayor (mas de 60)")
